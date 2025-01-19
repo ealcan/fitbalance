@@ -1,0 +1,7 @@
+com.fitbalance.main
+com.fitbalance.main.config
+com.fitbalance.main.controller
+com.fitbalance.main.Dto
+com.fitbalance.main.entities
+com.fitbalance.main.repository
+com.fitbalance.main.services

@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.fitbalance.main.config"},{"l":"com.fitbalance.main.controller"},{"l":"com.fitbalance.main.Dto"},{"l":"com.fitbalance.main.entities"},{"l":"com.fitbalance.main.repository"},{"l":"com.fitbalance.main.services"}];updateSearchResults();
